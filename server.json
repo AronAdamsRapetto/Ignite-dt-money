@@ -1,0 +1,140 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-04-21T16:04:38.816Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-04-19T12:15:22.421Z"
+    },
+    {
+      "description": "coxinha",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-21T20:16:25.364Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 9000,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2023-04-21T20:25:35.640Z",
+      "id": 5
+    },
+    {
+      "description": "teste",
+      "price": 400,
+      "category": "xablau",
+      "type": "income",
+      "createdAt": "2023-04-26T16:21:38.115Z",
+      "id": 7
+    },
+    {
+      "description": "teste",
+      "price": 100,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-04-26T16:21:50.703Z",
+      "id": 8
+    },
+    {
+      "description": "teste",
+      "price": 100,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-04-26T16:21:50.703Z",
+      "id": 9
+    },
+    {
+      "description": "teste",
+      "price": 100,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-04-26T16:21:50.703Z",
+      "id": 10
+    },
+    {
+      "description": "teste",
+      "price": 100,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-04-26T16:21:50.703Z",
+      "id": 11
+    },
+    {
+      "description": "teste",
+      "price": 100,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-04-26T16:21:50.703Z",
+      "id": 12
+    },
+    {
+      "description": "teste",
+      "price": 100,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-04-26T16:21:50.703Z",
+      "id": 13
+    },
+    {
+      "description": "teste",
+      "price": 100,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-04-26T16:21:50.703Z",
+      "id": 14
+    },
+    {
+      "description": "teste",
+      "price": 100,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-04-26T16:21:50.703Z",
+      "id": 15
+    },
+    {
+      "description": "teste",
+      "price": 100,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-04-26T16:21:50.703Z",
+      "id": 16
+    },
+    {
+      "description": "teste",
+      "price": 100,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-04-27T13:42:37.794Z",
+      "id": 17
+    },
+    {
+      "description": "teste",
+      "price": 100,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-04-27T13:44:29.471Z",
+      "id": 18
+    },
+    {
+      "description": "teste",
+      "price": 100,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-04-27T13:44:45.810Z",
+      "id": 19
+    }
+  ]
+}
